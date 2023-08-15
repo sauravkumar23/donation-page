@@ -7,6 +7,4 @@
 
    Donate > index.html > replace the razorpay payment button key with your own key
    
-### Website link: 
 
-https://rahulkr430.github.io/Donation-page/
